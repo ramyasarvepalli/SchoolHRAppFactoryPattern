@@ -1,0 +1,1 @@
+The SchoolHRAppFactoryPattern is a .NET-based application designed to manage human resources (HR) operations for schools using the Factory Pattern. This design pattern helps in creating objects dynamically without specifying the exact class, ensuring modularity and scalability.
