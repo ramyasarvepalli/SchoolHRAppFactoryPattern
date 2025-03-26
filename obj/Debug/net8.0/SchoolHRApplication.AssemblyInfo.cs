@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolHRApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304b392e1032c7a4a5e9f1c134904f6ba09f2298")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolHRApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolHRApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

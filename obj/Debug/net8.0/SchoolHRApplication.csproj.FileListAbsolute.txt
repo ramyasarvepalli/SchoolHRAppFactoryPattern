@@ -16,3 +16,4 @@ D:\source\SchoolHRApplication\obj\Debug\net8.0\refint\SchoolHRApplication.dll
 D:\source\SchoolHRApplication\obj\Debug\net8.0\SchoolHRApplication.pdb
 D:\source\SchoolHRApplication\obj\Debug\net8.0\SchoolHRApplication.genruntimeconfig.cache
 D:\source\SchoolHRApplication\obj\Debug\net8.0\ref\SchoolHRApplication.dll
+D:\source\SchoolHRApplication\obj\Debug\net8.0\SchoolHRApplication.sourcelink.json
